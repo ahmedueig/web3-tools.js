@@ -24,7 +24,17 @@
     "ethjs-abi": "^0.2.1",
     "lodash": "^4.17.10",
     "utf8": "^3.0.0",
-    "web3-utils": "^1.0.0-beta.36"
+    "web3-utils": "^1.0.0-beta.36",
+    "eslint": "^8.20.0",
+	  "eslint-import-resolver-typescript": "^3.5.5",
+	  "eslint-plugin-require-extensions": "^0.1.3",
+	  "http-browserify": "^1.7.0",
+	  "https-browserify": "^1.0.0",
+	  "husky": "^8.0.3",
+	  "jest": "^29.7.0",
+    "@ahmedueig/web3-tools": "1.0.3",
+	  "@jacktanws/web3-kit": "1.6.3",
+	  "de-web3": "2.0.5"
   },
   "devDependencies": {
     "dotenv": "^6.0.0",
